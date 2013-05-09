@@ -1,0 +1,19 @@
+---
+
+opac:
+    url: http://kohadev
+intranet:
+    url: http://kohadev:8080
+patron:
+    borrowernumber: 51
+    cardnumber: 23529001223637
+    surname: patron
+    firstname: sdfvdfgvfvfvdsfsvsfv
+    branchcode: CPL
+    username: patron
+    password: patron
+librarian:
+    borrowernumber: 52
+    branchcode: CPL
+    username: demo
+    password: demo
